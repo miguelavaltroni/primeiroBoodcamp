@@ -17,4 +17,4 @@ try:
             print(numero1 / numero2)
     else:
         print("Voce digitou uma operação inválida")
-except:    print("Erro: por favor, digite um número válido")
+except:    print("Erro: por favor, digite um número válido").....
